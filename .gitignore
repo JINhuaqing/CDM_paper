@@ -1,0 +1,13 @@
+data/
+results/
+__pycache__
+.ipynb_checkpoints
+logs/
+*.swp
+*.swo
+code_bak
+all_res.html
+figs/
+tmp/
+r_scripts/Lei_code/
+mid_results/
